@@ -1,3 +1,5 @@
 I am a fix file for the project.
 
 Add a bug fix here.
+
+add footer note.
