@@ -1,0 +1,15 @@
+I am a fix file for the project.
+
+Add a bug fix here.
+
+add footer note.
+
+One more bug detected and fixed successfully.
+Second bug fixed.
+Third bug fixed.
+
+<<<<<<< HEAD
+Hey, I am yuvraj2.
+=======
+Hey, I am yuvraj1.
+>>>>>>> bug-fix
